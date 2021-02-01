@@ -2,7 +2,7 @@
 
 ## Requires 
 
- Ganache [https://www.trufflesuite.com/ganache](https://www.trufflesuite.com/ganache) (as test blockchain)
+ Ganache [https://www.trufflesuite.com/ganache](https://www.trufflesuite.com/ganache) (as local test blockchain)
  
  Metamask [https://metamask.io/](https://metamask.io/) or directly in browser extensions (for accounts switch)
  
